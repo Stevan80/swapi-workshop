@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+}
+
+.star-wars {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.person {
+  width: 500px;
+}
+
+.logo {
+  width: 500px;
+}
+.ship {
+  width: 500px;
+}
