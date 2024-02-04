@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+  }
+  
+  .star-wars {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .person {
+    width: 500px;
+    cursor: pointer;
+  }
+  
+  .logo {
+    width: 500px;
+  }
+  .ship {
+    width: 500px;
+    cursor: pointer;
+  }
+
+  .container {
+    margin-top: 150px;
+  }
+  
+  .peopleTableContainer {
+    color: white;
+  }
+  table {
+    border: solid white 1px;
+  }
+  td {
+    border: solid white 1px;
+  }
+  th {
+    border: solid white 1px;
+  }
+  
+  .shipsTableContainer {
+    color: white;
+  }
+  table {
+    border: solid white 1px;
+  }
+  td {
+    border: solid white 1px;
+  }
+  th {
+    border: solid white 1px;
+  }
